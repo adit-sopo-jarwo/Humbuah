@@ -12,7 +12,7 @@
 <body>
     <div class="min-h-screen bg-blue-900 py-6 flex flex-col justify-center sm:py-10">
         <div class="flex justify-center items-center mb-14">
-            <a href="{{ route('login') }}" class="font-serif font-bold text-5xl text-white">
+            <a href="{{ route('index') }}" class="font-serif font-bold text-5xl text-white">
                 Humbuah</a>
         </div>
         <div class="relative py-3 sm:max-w-xl sm:mx-auto">
