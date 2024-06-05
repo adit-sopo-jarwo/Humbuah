@@ -5,6 +5,7 @@ export default {
     "./resources/**/*.js",
     "./resources/**/*.vue",
     'node_modules/preline/dist/*.js',
+    "./components/**/*.{js,ts,jsx,tsx}"
   ],
   theme: {
     extend: {},
